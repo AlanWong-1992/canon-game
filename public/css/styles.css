@@ -6,3 +6,15 @@ body {
   margin: 0;
   margin-left: 10px;
 }
+
+#title, p {
+  font-family: Montserrat;
+}
+
+div{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
